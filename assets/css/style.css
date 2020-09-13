@@ -116,7 +116,7 @@
     margin-right: auto;
   }
   
-  .page-section {
+  .contact-section {
     margin: 25px 0;
     padding: 10px 0;
     display: flex;
@@ -126,7 +126,7 @@
     justify-content: space-between;
   }
   
-  .page-section > h2 {
+  .contact-section > h2 {
     flex: 0 0 20%;
     text-align: right;
     padding-right: 15px;
@@ -135,11 +135,11 @@
     line-height: 1.1;
   }
   
-  .page-section > div {
+  .contact-section > div {
     flex: 0 0 77%;
   }
   
-  .page-section p {
+  .contact-section p {
     margin-bottom: 20px;
   }
   
@@ -213,23 +213,23 @@
   
   /* PORTFOLIO PROJECT IMAGES */
   .run-buddy {
-    background-image: url("../images/02-run-buddy.jpg");
+    background-image: url("../images/run-buddy.jpg");
   }
   
   .led-wall {
-    background-image: url("../images/02-portfolio-1.jpg");
+    background-image: url("../images/b-girl.jpg");
   }
   
   .react-calc {
-    background-image: url("../images/02-portfolio-2.jpg");
+    background-image: url("../images/studios.jpg");
   }
   
   .pastel-puzzles {
-    background-image: url("../images/02-portfolio-3.jpg");
+    background-image: url("../images/progressive.jpg");
   }
   
   .surf-report {
-    background-image: url("../images/02-portfolio-4.jpg");
+    background-image: url("../images/2chains.jpg");
   }
   
   /* END PORTFOLIO PROJECT IMAGES */
