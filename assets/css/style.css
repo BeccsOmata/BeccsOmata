@@ -84,7 +84,7 @@
   }
   
   .hero {
-    background-image: url("../images/hero-bckgrd.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+    background-image: url("../images/background.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -198,7 +198,7 @@
   }
   
   .contact address a {
-    color: var(--tertiary);
+    color: var(--secondary);
     padding: 5px;
     text-decoration: none;
     font-size: 1.3rem;
