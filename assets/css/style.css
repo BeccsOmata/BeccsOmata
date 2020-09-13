@@ -83,8 +83,8 @@
     margin-bottom: 45px;
   }
   
-  .hero-banner {
-    background-image: url("../images/LandingImage.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  .hero {
+    background-image: url("../images/hero-bckgrd.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
     background-size: cover;
     background-position: center;
     background-blend-mode: soft-light;
@@ -97,11 +97,11 @@
     text-align: right;
   }
   
-  .hero-banner div {
+  .hero div {
     flex: 0 0 90%;
   }
   
-  .hero-banner h2 {
+  .hero h2 {
     color: var(--tertiary);
     margin: 0;
     padding: 5px 10px;
