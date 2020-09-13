@@ -216,20 +216,20 @@
     background-image: url("../images/run-buddy.jpg");
   }
   
-  .led-wall {
-    background-image: url("../images/b-girl.jpg");
-  }
-  
-  .react-calc {
+  .studios {
     background-image: url("../images/studios.jpg");
   }
   
-  .pastel-puzzles {
+  .progressive {
     background-image: url("../images/progressive.jpg");
   }
   
-  .surf-report {
+  .twochains {
     background-image: url("../images/2chains.jpg");
+  }
+  
+  .b-girl {
+    background-image: url("../images/b-girl.jpg");
   }
   
   /* END PORTFOLIO PROJECT IMAGES */
